@@ -24,7 +24,7 @@
 
 **简单描述：** 这个示例展示了如何使用SVM模型来进行线性和非线性分类，以判断乘客对航班的满意度。我们将不同的SVM方法应用于相同的航班满意度数据集，以探讨线性和非线性分类的差异。
 
-#### [进入线性SVM示例]([链接到你的线性SVM示例的URL](https://github.com/frenkiefang/machine_learning/blob/main/logistic_regression.ipynb)https://github.com/frenkiefang/machine_learning/blob/main/svm.ipynb)
+#### [进入线性SVM示例](https://github.com/frenkiefang/machine_learning/blob/main/svm.ipynb)
 
 欢迎随时查看这些示例以深入了解这些机器学习算法的实现方式。如果您有任何问题或建议，欢迎与我联系！
 
