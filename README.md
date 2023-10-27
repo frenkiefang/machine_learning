@@ -26,5 +26,7 @@
 
 #### [进入线性SVM示例](https://github.com/frenkiefang/machine_learning/blob/main/svm.ipynb)
 
+***
+
 欢迎随时查看这些示例以深入了解这些机器学习算法的实现方式。如果您有任何问题或建议，欢迎与我联系！
 
