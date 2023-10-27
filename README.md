@@ -6,7 +6,8 @@
 
 **实现过程：** 线性回归用于预测连续数值。它建立了输入特征和输出之间的线性关系。我们使用训练数据来学习权重和偏差，以拟合最佳拟合线。这条线将帮助我们对新数据进行预测。
 
-**示例：** [线性回归模型](https://github.com/frenkiefang/machine_learning/blob/main/linear_regression.ipynb)
+### [线性回归](https://github.com/frenkiefang/machine_learning/blob/main/linear_regression.ipynb)
+
 **简单描述：** 这个示例是关于如何使用线性回归模型来预测红酒的品质。我们基于不同的特征（如酒精含量、酸度等）来建立一个模型，以预测红酒的品质评分。
 
 ## 逻辑回归
